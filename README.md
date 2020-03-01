@@ -10,5 +10,5 @@ https://www.flickr.com/photos/unloveable/2396019222
 
 
 # Hints
-- Developing a GUI will be available soon.
+- Developing a GUI and will be available soon.
 - Soon i will add playing against the computer feature (using minmax algorithm).
